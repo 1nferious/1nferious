@@ -3,7 +3,7 @@
 
 I'm a Cyber Security Ethusiast, I develop projects from time to time.
 
-Currently a developer for ARS (https://ars.red/)
+Currently a developer for ARS ars.red
 
 ## Languages I know 
 ```py
