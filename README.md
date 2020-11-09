@@ -13,7 +13,7 @@ languages = ['Python', 'Lua', 'JavaScript', 'HTML', 'CSS']
 [Discord](https://discord.bio/p/1nferious)
 <br />
 ## Listening to:
-[![Spotify](https://novatorem-orcin.vercel.app/api/spotify)](https://open.spotify.com/user/1nferious)
+[![Spotify](https://novatorem-orcin.vercel.app/api/spotify)](https://open.spotify.com/user/x)
 <details>
   <summary>Github Stats</summary>
   <img align="left" alt="1nferious Github Stats" src="https://github-readme-stats.vercel.app/api?username=1nferious&show_icons=true&theme=radical&hide_border=true" />
