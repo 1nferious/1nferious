@@ -12,5 +12,5 @@ languages = ['Python', 'Lua', 'JavaScript', 'HTML', 'CSS']
 <br />
 <details>
   <summary>Github Stats</summary>
-  <img align="left" alt="1nferious Github Stats" src="https://github-readme-stats.vercel.app/api?username=1nferious&show_icons=true&hide_border=true" />
+  <img align="left" alt="1nferious Github Stats" src="https://github-readme-stats.vercel.app/api?username=1nferious&show_icons=true&theme=radical&hide_border=true" />
 </details>
