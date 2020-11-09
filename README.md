@@ -3,7 +3,7 @@
 
 I'm a Cyber Security Ethusiast, I develop projects from time to time.
 
-Currently a developer for ARS ars.red
+Currently a developer for [ARS][website]
 
 ## Languages I know 
 ```py
@@ -16,3 +16,5 @@ languages = ['Python', 'Lua', 'JavaScript', 'HTML', 'CSS']
   <summary>Github Stats</summary>
   <img align="left" alt="1nferious Github Stats" src="https://github-readme-stats.vercel.app/api?username=1nferious&show_icons=true&theme=radical&hide_border=true" />
 </details>
+
+[website]: https://ars.red/
