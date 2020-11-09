@@ -1,16 +1,16 @@
-### Hi there 👋
+## Who I am
+I'm a Cyber Security Ethusiast, I develop projects from time to time.
 
-<!--
-**1nferious/1nferious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer for ARS (https://ars.red/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages I know 
+```py
+languages = ['Python', 'Lua', 'JavaScript', 'HTML', 'CSS']
+```
+## Contact me:
+[Discord](https://discord.bio/p/1nferious)
+<br />
+<details>
+  <summary>Github Stats</summary>
+  <img align="left" alt="1nferious Github Stats" src="https://github-readme-stats.vercel.app/api?username=1nferious&show_icons=true&hide_border=true" />
+</details>
