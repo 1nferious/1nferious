@@ -1,7 +1,7 @@
 ## Who I am
 I'm a Cyber Security Ethusiast, I develop projects from time to time.
 
-I'm a developer for ARS (https://ars.red/)
+Currently a developer for ARS (https://ars.red/)
 
 ## Languages I know 
 ```py
