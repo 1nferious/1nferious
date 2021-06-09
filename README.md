@@ -7,7 +7,7 @@ Currently a developer for [ARS][website]
 
 ## Languages I know 
 ```py
-languages = ['Python', 'Lua', 'JavaScript', 'HTML', 'CSS']
+languages = ['Python', 'Lua', 'HTML', 'CSS']
 ```
 ## Contact me:
 [Discord](https://discord.bio/p/1nferious)
