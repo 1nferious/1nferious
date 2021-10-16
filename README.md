@@ -17,4 +17,4 @@ languages = ['Python', 'Lua', 'JavaScript', 'HTML', 'CSS']
   <img align="left" alt="1nferious Github Stats" src="https://github-readme-stats.vercel.app/api?username=1nferious&show_icons=true&theme=radical&hide_border=true" />
 </details>
 
-[website]: https://ars.red/
+[website]: https://ars.red
