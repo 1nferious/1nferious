@@ -1,4 +1,3 @@
-## About me
 <h1 align="left">Hi, I'm 1nferious :)</h1>
 <h3 align="left">Developer & Cyber Security Analyst</h3>
 
