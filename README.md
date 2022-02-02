@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm 1nferious :)</h1>
-<h3 align="left">Developer & Cyber Security Analyst</h3>
+<h3 align="left">Developer</h3>
 
 ## What I'm listening to
  [![Spotify](https://novatorem-m5ldv9e20-1nferious.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/1nferious)
