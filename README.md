@@ -5,6 +5,9 @@ I'm a Cyber Security Ethusiast, I develop projects from time to time.
 
 Currently a developer for [ARS][website]
 
+ ## What I'm listening to
+ [![Spotify](https://novatorem-m5ldv9e20-1nferious.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/1nferious)
+
 ## Languages I know 
 ```py
 languages = ['Python', 'Lua', 'JavaScript', 'HTML', 'CSS']
