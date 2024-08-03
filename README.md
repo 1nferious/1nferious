@@ -2,7 +2,7 @@
 <h3 align="left">Developer</h3>
 
 ## What I'm listening to
- [![Spotify](https://novatorem-m5ldv9e20-1nferious.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/1nferious)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1nferious&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1nferious&redirect=true)
 
 ## Languages I know 
 ```py
