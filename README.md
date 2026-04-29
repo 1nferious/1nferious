@@ -6,7 +6,7 @@
 
 ## Languages I know 
 ```py
-languages = ['Python', 'Lua', 'JavaScript', 'HTML', 'CSS']
+languages = ['Python', 'Lua', 'JavaScript', 'C++']
 ```
 <h1 align="left">Contact</h1>
 <p align="left">You can DM me on Discord by clicking below</p>
